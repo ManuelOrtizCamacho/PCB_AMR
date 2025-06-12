@@ -44,6 +44,44 @@
 		)
 	)
 	(sheet
+		(at 189.23 128.27)
+		(size 43.18 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2d50d554-fb89-4a3d-a9b1-887366ac14e7")
+		(property "Sheetname" "Test_points"
+			(at 189.23 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Test_points.kicad_sch"
+			(at 189.23 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Placa_principal_v2"
+				(path "/b0e8f483-0023-4ae8-ade5-8b5c3c2eccb2"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 81.28 31.75)
 		(size 31.75 53.34)
 		(fields_autoplaced yes)

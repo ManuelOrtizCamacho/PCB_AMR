@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CMT-8540S-SMT")(type "Legacy")(uri "${KIPRJMOD}/imports/CMT-8540S-SMT/CMT-8540S-SMT.lib")(options "")(descr ""))
+)

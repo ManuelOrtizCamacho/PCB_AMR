@@ -1,0 +1,49 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C13, C14, C15, C16, C18, C19, C2, C9",0805,10,100nF,C49678
+"C11, C12",0805,2,10uF,C15850
+"C17, C20",0805,2,1uF,C28323
+"C21, C22",CP_Elec_8x10,2,220uF,C3358
+"C3, C4",0805,2,2.2uF,C377773
+"C5, C6, C7, C8",0805,4,0.1uF,C28233
+"D1, D3",SOT-23,2,BAT54C,C2135
+D2,D_SMB,1,1N5822,C8678
+D4,D_SOD-323F,1,1N4148,C2128
+FB2,0603,1,600 Ω a 100 MHz,C141723
+J1,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Encoder_1,
+J10,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Sensor_de_proximidad_2,
+J11,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Sensor_de_proximidad_3,
+J12,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Sensor_de_proximidad_4,
+J13,PinSocket_1x06_P2.54mm_Vertical,1,Conn_01x06_Socket,
+J14,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Sensor_de_proximidad_1,
+J15,PinHeader_1x05_P2.54mm_Vertical,1,Conn_01x05_Socket,
+J16,Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal,1,Sensor_de_linea_1,
+J17,Molex_Micro-Fit_3.0_43650-0300_1x03_P3.00mm_Horizontal,1,Sensor_de_linea_2,
+"J18, J19",USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,2,USB_C_Receptacle_USB2.0_16P,C165948
+J2,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1,Driver_2,
+J20,PinSocket_2x10_P2.54mm_Vertical,1,Conn_02x10_Top_Bottom,
+J3,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1,Driver_1,
+J4,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1,Driver_3,
+J5,Molex_Micro-Fit_3.0_43045-0600_2x03_P3.00mm_Horizontal,1,Driver_4,
+J6,AMASS_XT60IPW-M_1x03_P7.20mm_Horizontal,1,Input 12V-24V connector,
+J7,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Encoder_3,
+J8,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Encoder_2,
+J9,Molex_Micro-Fit_3.0_43045-0400_2x02_P3.00mm_Horizontal,1,Encoder_4,
+L2,L_Bourns_SRR1260,1,33uH,C9400
+LS1,CUI_CMT-8540S-SMT,1,CMT-8540S-SMT,C94599
+Q1,SOT-23,1,SS8050,C2150
+Q2,SOT-23,1,IRLML6402,C2593
+"R1, R2, R4, R5",0805,4,4.7kohm,C17673
+"R10, R11, R14, R17, R18, R21, R22, R25, R27, R28, R31, R32, R33, R35, R9",0805,15,5.1k,C27834
+"R12, R13, R15, R16, R19, R20, R23, R24, R26, R3, R30, R34, R36, R6, R7, R8",0805,16,10kohm,C17414
+R29,0805,1,1k,C17513
+R37,0805,1,100ohm,C17408
+"SW1, SW2",SW_SPST_TL3342,2,SW_Push,C318884
+"TP11, TP12, TP5, TP6",TestPoint_Pad_D1.5mm,4,TestPoint,
+TP13,TestPoint_Loop_D2.60mm_Drill1.4mm_Beaded,1,TestPoint,
+U1,SOT-223-3_TabPin2,1,LM1117MP-3.3,C2593
+U2,InvenSense_QFN-24_3x3mm_P0.4mm,1,ICM-20948,C726001
+U3,LQFP-100_14x14mm_P0.5mm,1,STM32F407VGTx,C12345
+U4,TO-263-5_TabPin3,1,LM2596S-5,C2980820
+U5,TSSOP-24_4.4x7.8mm_P0.65mm,1,TCA9548APWR,C130026
+"U6, U7",SOT-23-6,2,USBLC6-2SC6,C7519
+U8,SOIC-16_3.9x9.9mm_P1.27mm,1,CH340G,C14267
